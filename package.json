@@ -1,0 +1,16 @@
+{
+  "name": "begay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "render": "node --experimental-modules pulpfile.mjs render"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rgrannell/pulp": "^9.1.0",
+    "canvas": "^2.6.0",
+    "rainbowvis.js": "^1.0.1"
+  }
+}
