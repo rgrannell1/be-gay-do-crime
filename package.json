@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@rgrannell/pulp": "^9.1.0",
-    "canvas": "^2.6.0",
+    "canvas": "^2.11.2",
     "rainbowvis.js": "^1.0.1"
   }
 }
